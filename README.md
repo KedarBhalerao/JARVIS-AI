@@ -1,6 +1,7 @@
 # JARVIS-AI
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wired.co.uk%2Farticle%2Fmark-zuckerberg-jarvis-ai&psig=AOvVaw23CdED6C68mxmbnTbU5LGU&ust=1631516568036000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPD36v7u-PICFQAAAAAdAAAAABAD
+![image](https://user-images.githubusercontent.com/86834276/132977412-1aeec3e2-41fe-4763-80c6-c656dd91bad2.png)
+
 
 This is a AI Personal Assistant. This is as same as our google assistant. This program is completely developed in Python. It hold much more feature.
 
